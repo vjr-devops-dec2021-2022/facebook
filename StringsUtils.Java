@@ -1,0 +1,3 @@
+This command is stringsfile function..
+
+This is the users functions files...
